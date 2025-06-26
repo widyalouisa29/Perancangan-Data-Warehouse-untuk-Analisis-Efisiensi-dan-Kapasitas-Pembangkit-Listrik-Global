@@ -1,0 +1,1 @@
+# Perancangan-Data-Warehouse-untuk-Analisis-Efisiensi-dan-Kapasitas-Pembangkit-Listrik-Global
